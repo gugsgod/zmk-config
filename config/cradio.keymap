@@ -46,7 +46,7 @@
         //│  Z       │  X       │  C       │  V       │  B       │   │  N       │  M       │ , <      │ . >      │ / ?      │
             &kp Z      &kp X      &kp C      &kp V      &kp B          &kp N      &kp M      &kp COMMA  &kp DOT    &kp ENTER
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
-                                    &mt LSHIFT TAB   &mt LCTRL BSPC    &kp SPACE  &lt SIMBOLOS LGUI
+                                    &mt LSHIFT TAB   &mt LCTRL BSPC  &mt LGUI SPACE &mo SIMBOLOS
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
             >;
         };
